@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+scikit-image
+pillow
+tensorflow_gpu
+scipy
+pynput
+h5py
+pyautogui
+imageio
